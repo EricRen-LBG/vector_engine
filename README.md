@@ -23,5 +23,3 @@ docker run -p 8501:8501 <USERNAME>/<YOUR_IMAGE_NAME>
 
 - Open your browser and go to `http://localhost:8501/`
 
-Mark for testing git settings.
-

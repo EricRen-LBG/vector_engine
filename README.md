@@ -23,3 +23,8 @@ docker run -p 8501:8501 <USERNAME>/<YOUR_IMAGE_NAME>
 
 - Open your browser and go to `http://localhost:8501/`
 
+
+## To use different github accounts, remember to config the ssh and add the identity key:
+
+`ssh-add ~/.ssh/github/id_ed25519`
+ 

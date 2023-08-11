@@ -1,13 +1,15 @@
 pandas
 numpy
-requests>=2.31.0
-beautifulsoup4>=4.12.2
-PyPDF2>=3.0.1
-pycryptodome==3.17
-tqdm>=4.65.0
+requests
+beautifulsoup4
+PyPDF2
+pycryptodome7
+tqdm
 torch
 transformers
 sentence-transformers
 faiss-cpu
+scann
+nbstripout
 # folium==0.2.1
 # streamlit==0.62.0

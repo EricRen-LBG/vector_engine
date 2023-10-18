@@ -3,7 +3,7 @@ numpy
 requests
 beautifulsoup4
 PyPDF2
-pycryptodome7
+pycryptodome
 tqdm
 torch
 transformers
